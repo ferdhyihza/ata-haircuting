@@ -35,7 +35,7 @@ export default function Services() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {SERVICES.map((service, index) => (
-            <div 
+            <div
               key={index}
               className="group bg-brand-gray-light p-10 border border-gray-100 hover:border-brand-blue hover:shadow-2xl transition-all duration-300 relative overflow-hidden"
             >
@@ -45,9 +45,6 @@ export default function Services() {
               </div>
               <h3 className="text-2xl font-bold text-brand-black mb-4 uppercase tracking-wide relative z-10">{service.title}</h3>
               <p className="text-brand-gray mb-6 leading-relaxed relative z-10">{service.description}</p>
-              <div className="mt-auto relative z-10">
-                <span className="inline-block border-b-2 border-brand-blue pb-1 text-brand-black font-bold tabular-nums">{service.price}</span>
-              </div>
             </div>
           ))}
         </div>

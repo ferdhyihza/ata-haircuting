@@ -45,8 +45,8 @@ export default function ContactAndLocation() {
                 </div>
                 <div className="ml-4">
                   <h4 className="text-lg font-bold text-brand-black mb-1">WhatsApp / Call</h4>
-                  <a href="tel:+6281234567890" className="text-brand-gray hover:text-brand-blue transition-colors text-lg tabular-nums">
-                    +62 812 3456 7890
+                  <a href="tel:+6281359573934" className="text-brand-gray hover:text-brand-blue transition-colors text-lg tabular-nums">
+                    +62 813 5957 3934
                   </a>
                 </div>
               </div>
