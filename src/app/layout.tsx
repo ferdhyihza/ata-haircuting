@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "ATA Haircutting | Best Haircutting in Town",
     description: "Experience the best precision cuts and expert styling at ATA Haircutting. Professional, clean, and masculine grooming.",
-    url: "https://ata-haircuting.ferdhyihza.com",
+    url: "https://ata-haircutting.ferdhyihza.com",
     siteName: "ATA Haircutting",
     locale: "id_ID",
     type: "website",
