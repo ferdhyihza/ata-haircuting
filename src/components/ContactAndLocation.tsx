@@ -67,13 +67,7 @@ export default function ContactAndLocation() {
 
           {/* Map Side */}
           <div className="h-96 lg:h-auto w-full relative">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15814.779692429406!2d112.06236681023963!3d-8.067339798485258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78ebd0dc9cfd7b%3A0xc3f58a8a2d1d3df8!2sDandong%2C%20Srengat%2C%20Blitar%20Regency%2C%20East%20Java!5e0!3m2!1sen!2sid!4v1709400000000!5m2!1sen!2sid"
-              className="absolute inset-0 w-full h-full border-0 grayscale hover:grayscale-0 transition-all duration-700"
-              allowFullScreen={true}
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-            ></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.2989699805585!2d112.07271237499974!3d-8.070958180664825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78efcccbaaa645%3A0x3286637c3f0fbe7c!2sATA%20HAIRCUTTING!5e0!3m2!1sen!2sid!4v1773453669533!5m2!1sen!2sid" className="absolute inset-0 w-full h-full border-0 grayscale hover:grayscale-0 transition-all duration-700" allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </div>
