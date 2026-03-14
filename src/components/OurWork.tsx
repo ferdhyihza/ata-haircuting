@@ -43,7 +43,7 @@ export default function OurWork() {
         </div>
         
         <div className="mt-16 text-center">
-          <a href="https://instagram.com/atahaircutting" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-brand-black hover:text-brand-blue font-bold tracking-wide uppercase transition-colors">
+          <a href="https://instagram.com/ata_haircutting" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-brand-black hover:text-brand-blue font-bold tracking-wide uppercase transition-colors">
             See more on Instagram <span className="ml-2">→</span>
           </a>
         </div>
