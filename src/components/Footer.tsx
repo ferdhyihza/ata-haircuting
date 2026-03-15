@@ -16,7 +16,7 @@ export default function Footer() {
         <p className="text-gray-400 max-w-md mx-auto mb-8 font-light">
           Precision, style, and unmatched confidence. The premier destination for men's grooming in Blitar.
         </p>
-        <div className="w-full border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
+        <div className="w-full border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-center items-center text-sm text-gray-500">
           <p>© {new Date().getFullYear()} ATA Haircutting. All rights reserved.</p>
         </div>
       </div>
